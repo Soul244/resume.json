@@ -1,0 +1,152 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Hasan Can Gedik",
+    "label": "Front-End Software Developer (React JS)",
+    "image": "",
+    "email": "hasancangedik@hotmail.com",
+    "phone": "",
+    "url": "",
+    "summary": "I am developing Web Applications by using React Js and Node Js.",
+    "location": {
+      "countryCode": "TR",
+      "address": ""
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "hasan-can-gedik",
+        "url": "https://www.linkedin.com/in/hasan-can-gedik/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Dugun.com",
+      "position": "Frontend Developer",
+      "startDate": "2020-12-31",
+      "endDate": "",
+      "highlights": [],
+      "url": "https://www.linkedin.com/company/dugun-com/",
+      "location": "İstanbul, Türkiye"
+    },
+    {
+      "name": "Teamfox CO",
+      "position": "Frontend Developer",
+      "startDate": "2019-09-30",
+      "endDate": "2020-09-30",
+      "highlights": [],
+      "url": "https://www.linkedin.com/company/teamfox-co/"
+    },
+    {
+      "name": "SambaPOS",
+      "position": "Yazılım Geliştirici",
+      "startDate": "2019-06-30",
+      "endDate": "2019-09-30",
+      "highlights": [],
+      "url": "https://www.linkedin.com/company/sambapos/"
+    },
+    {
+      "name": "NOD Digital",
+      "position": "Yazılım Geliştirici",
+      "startDate": "2018-11-30",
+      "endDate": "2019-01-31",
+      "highlights": [],
+      "url": "https://www.linkedin.com/company/nod-digital/",
+      "location": "İstanbul"
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Trakya Üniversitesi",
+      "area": "Bilgisayar Teknolojisi ve Bilişim Sistemleri",
+      "studyType": "Lisans",
+      "startDate": "2014-12-31",
+      "endDate": "2018-12-31",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Halkalı Ticaret Meslek Lisesi",
+      "area": "Bilişim Teknolojileri",
+      "studyType": "",
+      "startDate": "2010-12-31",
+      "endDate": "2014-12-31",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "React.js",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "React Native ",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "JavaScript",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Bilgisayar Donanımı",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "HTML",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "CSS",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Node.js",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Mongo DB",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "tr",
+      "fluency": "Native Speaker"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": [
+    {
+      "name": "React Admin Template",
+      "startDate": "2019-11-30",
+      "summary": "React js ile geliştirmiş olduğum admin template'i.",
+      "url": "http://londoner.netlify.app/"
+    },
+    {
+      "name": "Local Sınav Uygulaması",
+      "startDate": "2018-03-31",
+      "summary": "Tez projem kapsamında, Windows tabanlı bir işletim sistemi üzerinde çalışan ve yerel ağ üzerinde, kullanıcı tarafından hazırlanmış sınavları paylaşabilen bir uygulama geliştirdim. Uygulamanın tamamı C# dili kullanılarak geliştirildi. Veritabanı motoru olarak ise SQLite kullandım. Mobil tarafta ise C# ile mobil uygulama geliştirebilmenizi sağlayan Xamarin isimli framework'ü kullanarak mobil uygulama geliştirdim.",
+      "url": "https://github.com/Soul244/lan-test",
+      "endDate": "2018-06-30"
+    }
+  ],
+  "meta": {
+    "version": "v1.0.0",
+    "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
+  }
+}
